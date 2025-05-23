@@ -3,7 +3,7 @@ import React from "react";
 const products = [
     {
         id: 1,
-        image: "/src/assets/bestseller-1.jpg",
+        image: "/bestseller-1.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",
@@ -12,7 +12,7 @@ const products = [
     },
     {
         id: 2,
-        image: "/src/assets/bestseller-2.jpg",
+        image: "/bestseller-2.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",
@@ -21,7 +21,7 @@ const products = [
     },
     {
         id: 3,
-        image: "/src/assets/bestseller-3.jpg",
+        image: "/bestseller-3.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",
@@ -30,7 +30,7 @@ const products = [
     },
     {
         id: 4,
-        image: "/src/assets/bestseller-4.jpg",
+        image: "/bestseller-4.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",
@@ -39,7 +39,7 @@ const products = [
     },
     {
         id: 5,
-        image: "/src/assets/bestseller-5.jpg",
+        image: "/bestseller-5.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",
@@ -48,7 +48,7 @@ const products = [
     },
     {
         id: 6,
-        image: "/src/assets/bestseller-6.jpg",
+        image: "/bestseller-6.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",
@@ -57,7 +57,7 @@ const products = [
     },
     {
         id: 7,
-        image: "/src/assets/bestseller-7.jpg",
+        image: "/bestseller-7.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",
@@ -66,7 +66,7 @@ const products = [
     },
     {
         id: 8,
-        image: "/src/assets/bestseller-8.jpg",
+        image: "/bestseller-8.jpg",
         title: "Graphic Design",
         department: "English Department",
         oldPrice: "$16.48",

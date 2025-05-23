@@ -3,25 +3,25 @@ import React from "react";
 const data = [
     {
         label: "MEN",
-        image: "/src/assets/men.jpg",
+        image: "/men.jpg",
         link: "/category/men",
         className: "row-span-2"
     },
     {
         label: "WOMEN",
-        image: "/src/assets/women.jpg",
+        image: "/women.jpg",
         link: "/category/women",
         className: ""
     },
     {
         label: "ACCESSORIES",
-        image: "/src/assets/accessories.jpg",
+        image: "/accessories.jpg",
         link: "/category/accessories",
         className: ""
     },
     {
         label: "KIDS",
-        image: "/src/assets/kids.jpg",
+        image: "/kids.jpg",
         link: "/category/kids",
         className: ""
     }

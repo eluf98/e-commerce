@@ -6,7 +6,7 @@ const Card = () => (
         <div className="flex flex-col md:flex-row bg-white rounded-lg overflow-hidden shadow max-w-[1100px] mx-auto items-stretch min-h-[380px]">
             <div className="w-full md:w-[60%] bg-gray-50 flex items-center justify-center">
                 <img
-                    src="/src/assets/card.jpg"
+                    src="/card.jpg"
                     alt="People under a plaid blanket"
                     className="w-full h-auto max-h-[380px] object-cover"
                 />

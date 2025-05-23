@@ -4,7 +4,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const slides = [
     {
         id: 1,
-        image: '/src/assets/shop.jpg',
+        image: '/shop.jpg',
         subtitle: 'SUMMER 2024',
         title: 'SUMMER COLLECTION',
         desc: 'We know how large objects will act, but things on a small scale.',
@@ -13,7 +13,7 @@ const slides = [
     },
     {
         id: 2,
-        image: '/src/assets/shop.jpg',
+        image: '/shop.jpg',
         subtitle: 'SUMMER 2024',
         title: 'NEW COLLECTION',
         desc: 'We know how large objects will act, but things on a small scale.',
@@ -22,7 +22,7 @@ const slides = [
     },
     {
         id: 3,
-        image: '/src/assets/shop.jpg',
+        image: '/shop.jpg',
         subtitle: 'SPRING 2024',
         title: 'SPRING COLLECTION',
         desc: 'We know how large objects will act, but things on a small scale.',

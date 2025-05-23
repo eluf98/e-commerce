@@ -2,9 +2,9 @@ import React from "react";
 
 
 const images = [
-    "/src/assets/card-1.jpg",
-    "/src/assets/card-2.jpg",
-    "/src/assets/card-3.jpg",
+    "/card-1.jpg",
+    "/card-2.jpg",
+    "/card-3.jpg",
 ];
 
 const FeaturedPost = () => (
